@@ -1,6 +1,6 @@
 # 👋 Hola, soy Marcela Fajardo-Bermúdez
 
-### Analista de Cienciometría • Vigilancia Tecnológica • Ciencia de Datos & IA
+### Cienciometría • Vigilancia Tecnológica • Ciencia de Datos & IA
 
 **Cienciometría** · **Bibliometría** · **Altmetría** · **Vigilancia tecnológica** · **Inteligencia competitiva** · **Búsqueda semántica con IA** · **Sistemas de recomendación**
 
@@ -9,12 +9,11 @@
 ## ⚡ Datos rápidos
 
 - 📚 Más de **13 años** en servicios de información para la investigación
-- 🔎 Especialista en **cienciometría, vigilancia tecnológica e inteligencia competitiva**
-- 🤖 Creadora de **DATA_PATENTS.AI**, un buscador semántico de patentes con modelos de lenguaje
+- 🔎 Con experiencia en **cienciometría, vigilancia tecnológica e inteligencia competitiva**
 - 🎓 Bibliotecóloga · Esp. en Analítica de Datos · **Candidata a MSc en Ciencia de Datos**
 - 📝 Revisora par en **Frontiers in Research Metrics and Analytics**
 - 🧭 Trabajo de grado: **sistema de recomendación de rutas formativas flexibles**
-- 🌎 Español · Inglés (profesional) · Portugués (básico)
+- 🌎 Español · Inglés (intermedio) y Portugués (básico)
 
 ---
 
@@ -31,7 +30,21 @@
 
 Soy **bibliotecóloga** con formación en **analítica** y **ciencia de datos**. Durante más de 13 años he acompañado a grupos de investigación, semilleros, así como a áreas administrativas, transformando **información científica** en conocimiento útil para la **toma de decisiones**.
 
-Mi camino va **de la biblioteca a los modelos de lenguaje**: comencé en la referencia especializada, la formación en competencias informacionales; hoy mido la **producción, visibilidad e impacto** de la investigación, elaboro **estudios de vigilancia** para proyectos estratégicos, además de construir herramientas con **inteligencia artificial**.
+Mi trayectoria comenzó en los **servicios de información para la investigación**: orientación a usuarios, referencia especializada, alfabetización informacional. Con los años me especialicé en **cienciometría**, **vigilancia tecnológica** e **inteligencia competitiva**. Hoy llevo esa experiencia a la **ciencia de datos**: diseño las soluciones, defino su arquitectura, las acompaño hasta el despliegue. Según el proyecto, programo directamente, desarrollo con asistentes de IA a partir de especificaciones (SDD) o adapto **modelos preentrenados** de Hugging Face mediante **transfer learning**, además de reutilizar repositorios abiertos para seguir construyendo sobre ellos.
+
+---
+
+## 🎓 Maestría en Ciencia de Datos · Universidad Icesi
+
+Formación orientada a seleccionar métodos según el problema, así como a construir y desplegar modelos que respondan a necesidades reales de las organizaciones.
+
+| Área | Lo que he trabajado |
+| --- | --- |
+| 📊 **Análisis de datos** | Análisis exploratorio · Visualización de información · Estrategia de datos |
+| 🤖 **Aprendizaje automático** | Análisis cuantitativo · Machine learning · Series de tiempo · Deep learning para imágenes · Deep learning para pronóstico |
+| ☁️ **Ingeniería de datos** | Infraestructura y arquitectura TI · Procesamiento de datos en la nube · Orquestación de procesos distribuidos · DataOps |
+| ⚖️ **Ética** | Ética en ciencia de datos e IA |
+| 🧪 **Proyecto aplicado** | Sistema de recomendación de rutas formativas flexibles |
 
 ---
 
@@ -42,29 +55,42 @@ Mi camino va **de la biblioteca a los modelos de lenguaje**: comencé en la refe
 - Vigilancia tecnológica e inteligencia competitiva con IA
 - Búsqueda semántica de patentes y documentos científicos
 - Sistemas de recomendación aplicados a la educación
+- Procesamiento de datos en la nube, pipelines orquestados, DataOps
 - Visualización de datos para la toma de decisiones
+
 
 ---
 
 ## 🧰 Herramientas
 
-**Ciencia de datos & IA**
+**Ciencia de datos & machine learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+**Ingeniería de datos & nube**
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat&logo=google&logoColor=white)
+![Dask](https://img.shields.io/badge/Dask-FC6E6B?style=flat&logo=dask&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-**Desarrollo web & despliegue**
+**Desarrollo & despliegue**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat&logo=google&logoColor=white)
 
-<!-- Si usas herramientas de bibliometría (VOSviewer, Bibliometrix, Scopus, Web of Science), agrégalas aquí -->
 
 ---
 
